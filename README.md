@@ -1,4 +1,4 @@
-# GPS Project
+# Project Mapping Cities as Flows
 
 This is the repo for the dissertation project: Mapping Cities as Flows: An evaluation of mobile app-based trajectory data 
 for the modelling of origin destination flows
